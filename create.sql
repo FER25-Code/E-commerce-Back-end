@@ -1,0 +1,11 @@
+create table product_model (id integer not null, path_image varchar(255) not null, price integer not null, titer varchar(255) not null, primary key (id)) engine=MyISAM;
+create table product_model (id integer not null, path_image varchar(255) not null, price integer not null, titer varchar(255) not null, primary key (id)) engine=MyISAM;
+create table product_model (id integer not null, path_image varchar(255) not null, price integer not null, titer varchar(255) not null, primary key (id)) engine=MyISAM;
+create table product_model (id integer not null, path_image varchar(255) not null, price integer not null, titer varchar(255) not null, primary key (id)) engine=MyISAM;
+create table product_model (id integer not null, path_image varchar(255) not null, price varchar(255) not null, titer varchar(255) not null, primary key (id)) engine=MyISAM;
+create table product_model (id integer not null, path_image varchar(255) not null, price varchar(255) not null, titer varchar(255) not null, primary key (id)) engine=MyISAM;
+create table product_model (id integer not null, path_image varchar(255) not null, price varchar(255) not null, titer varchar(255) not null, primary key (id)) engine=MyISAM;
+create table product_model (id integer not null, path_image varchar(255) not null, price varchar(255) not null, titer varchar(255) not null, primary key (id)) engine=MyISAM;
+create table product_model (id integer not null, path_image varchar(255) not null, price varchar(255) not null, titer varchar(255) not null, primary key (id)) engine=MyISAM;
+create table product_model (id integer not null, path_image varchar(255) not null, price varchar(255) not null, titer varchar(255) not null, primary key (id)) engine=MyISAM;
+create table product_model (id integer not null, path_image varchar(255) not null, price varchar(255) not null, titer varchar(255) not null, primary key (id)) engine=MyISAM;
